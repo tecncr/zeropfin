@@ -1,0 +1,30 @@
+{
+  "name": "zeropfin-web",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Zeropfin web remote (static assets built on the developer machine/CI only)",
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "pnpm@12.18.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/postbuild.mjs",
+    "test": "vitest run",
+    "check:design": "node scripts/design-check.mjs",
+    "e2e": "node tests/e2e.mjs"
+  },
+  "dependencies": {
+    "@alpinejs/csp": "3.17.5"
+  },
+  "devDependencies": {
+    "@fontsource-variable/inter": "5.3.0",
+    "@tailwindcss/vite": "4.3.5",
+    "playwright-core": "1.65.1",
+    "tailwindcss": "4.3.5",
+    "vite": "8.3.8",
+    "vitest": "5.1.1"
+  }
+}

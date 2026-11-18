@@ -1,0 +1,46 @@
+[Unit]
+Description=Zeropfin Jellyfin receiver (ZeroPlay remote control)
+Documentation=https://github.com/tecncr/zeropfin
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=notify
+User=zeropfin
+Group=zeropfin
+# DRM/KMS (video, render) and ALSA (audio) for the ZeroPlay child process.
+SupplementaryGroups=video render audio
+ExecStart=/usr/bin/zeropfin --config /etc/zeropfin/zeropfin.conf serve
+ExecReload=/bin/kill -HUP $MAINPID
+StateDirectory=zeropfin
+StateDirectoryMode=0700
+RuntimeDirectory=zeropfin
+RuntimeDirectoryMode=0750
+Restart=on-failure
+RestartSec=3
+TimeoutStopSec=30
+KillMode=mixed
+UMask=0077
+# ZeroPlay raises its render loop to SCHED_FIFO priority 10 in control mode.
+LimitRTPRIO=10
+
+# Hardening. Device access stays at the default policy because ZeroPlay needs
+# /dev/dri/*, /dev/video* (V4L2 M2M decoder) and /dev/snd/*.
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectKernelLogs=yes
+ProtectControlGroups=yes
+ProtectClock=yes
+ProtectHostname=yes
+RestrictSUIDSGID=yes
+RestrictNamespaces=yes
+LockPersonality=yes
+SystemCallArchitectures=native
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6 AF_NETLINK
+
+[Install]
+WantedBy=multi-user.target

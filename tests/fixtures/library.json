@@ -1,0 +1,3463 @@
+{
+ "items": [
+  {
+   "BackdropImageTags": [
+    "b0001"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-02-11T12:00:00Z",
+   "Genres": [
+    "Drama"
+   ],
+   "Id": "a0000000000000000000000000000001",
+   "ImageTags": {
+    "Primary": "p0001"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000001",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      },
+      {
+       "Codec": "subrip",
+       "DisplayTitle": "Eng - SUBRIP",
+       "Index": 2,
+       "IsExternal": false,
+       "IsTextSubtitleStream": true,
+       "Language": "eng",
+       "Type": "Subtitle"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 54000000000,
+     "Size": 54000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Harbor Lights",
+   "OfficialRating": "PG",
+   "Overview": "A lighthouse keeper keeps the lamp burning through one long winter.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2021,
+   "RunTimeTicks": 54000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0002"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-03-12T12:00:00Z",
+   "Genres": [
+    "Thriller"
+   ],
+   "Id": "a0000000000000000000000000000002",
+   "ImageTags": {
+    "Primary": "p0002"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 3000000,
+     "Container": "mov,mp4,m4a,3gp,3g2,mj2",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000002",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 25,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "720p H264",
+       "Height": 720,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 31,
+       "PixelFormat": "yuv420p",
+       "Profile": "Main",
+       "RealFrameRate": 25,
+       "Type": "Video",
+       "Width": 1280
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 48000000000,
+     "Size": 48000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Northern Line",
+   "OfficialRating": null,
+   "Overview": "The last train north, told in real time.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2019,
+   "RunTimeTicks": 48000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 6000000000,
+    "Played": false,
+    "PlayedPercentage": 12.5
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0003"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-04-13T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000003",
+   "ImageTags": {
+    "Primary": "p0003"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000003",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 10,
+       "Codec": "hevc",
+       "DisplayTitle": "1080p HEVC",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 120,
+       "PixelFormat": "yuv420p10le",
+       "Profile": "Main 10",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Quiet Engine",
+   "OfficialRating": null,
+   "Overview": "HEVC fixture.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2023,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0004"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-05-14T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000004",
+   "ImageTags": {
+    "Primary": "p0004"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000004",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 10,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p10le",
+       "Profile": "High 10",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Paper Moons",
+   "OfficialRating": null,
+   "Overview": "Hi10P fixture.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2018,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0005"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-06-15T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000005",
+   "ImageTags": {
+    "Primary": "p0005"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000005",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 6,
+       "Codec": "dts",
+       "DisplayTitle": "Eng - DTS - 6ch",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 2,
+       "IsDefault": false,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Copper Field",
+   "OfficialRating": null,
+   "Overview": "First audio track is DTS.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2017,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0006"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-07-16T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000006",
+   "ImageTags": {
+    "Primary": "p0006"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mp4",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000006",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 59.94,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 42,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 59.94,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Fast Water",
+   "OfficialRating": null,
+   "Overview": "1080p60 fixture.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2022,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0007"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-08-17T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000007",
+   "ImageTags": {
+    "Primary": "p0007"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 25000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000007",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Heavy Rain",
+   "OfficialRating": null,
+   "Overview": "High bitrate fixture.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2020,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0008"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-09-18T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000008",
+   "ImageTags": {
+    "Primary": "p0008"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000050",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "hevc",
+       "DisplayTitle": "1080p HEVC",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "4K HEVC",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    },
+    {
+     "Bitrate": 4000000,
+     "Container": "mp4",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000051",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "720p H264",
+       "Height": 720,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 31,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1280
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "720p",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Two Sources",
+   "OfficialRating": null,
+   "Overview": "Second version is playable.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2016,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0009"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-01-19T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000009",
+   "ImageTags": {
+    "Primary": "p0009"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "avi",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000009",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "mpeg4",
+       "DisplayTitle": "1080p MPEG4",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 5,
+       "PixelFormat": "yuv420p",
+       "Profile": "Advanced Simple Profile",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "mp3",
+       "DisplayTitle": "Eng - MP3 - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Glass Garden",
+   "OfficialRating": null,
+   "Overview": "AVI/MPEG-4 Part 2 fixture.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2001,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b000a"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-02-10T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000000a",
+   "ImageTags": {
+    "Primary": "p000a"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000000a",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 10",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2010,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b000b"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-03-11T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000000b",
+   "ImageTags": {
+    "Primary": "p000b"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000000b",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 11",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2011,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b000c"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-04-12T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000000c",
+   "ImageTags": {
+    "Primary": "p000c"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000000c",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 12",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2012,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b000d"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-05-13T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000000d",
+   "ImageTags": {
+    "Primary": "p000d"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000000d",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 13",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2013,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b000e"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-06-14T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000000e",
+   "ImageTags": {
+    "Primary": "p000e"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000000e",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 14",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2014,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b000f"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-07-15T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000000f",
+   "ImageTags": {
+    "Primary": "p000f"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000000f",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 15",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2015,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0010"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-08-16T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000010",
+   "ImageTags": {
+    "Primary": "p0010"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000010",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 16",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2016,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0011"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-09-17T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000011",
+   "ImageTags": {
+    "Primary": "p0011"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000011",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 17",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2017,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0012"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-01-18T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000012",
+   "ImageTags": {
+    "Primary": "p0012"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000012",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 18",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2018,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0013"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-02-19T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000013",
+   "ImageTags": {
+    "Primary": "p0013"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000013",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 19",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2019,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0014"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-03-10T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000014",
+   "ImageTags": {
+    "Primary": "p0014"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000014",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 20",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2020,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0015"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-04-11T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000015",
+   "ImageTags": {
+    "Primary": "p0015"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000015",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 21",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2021,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0016"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-05-12T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000016",
+   "ImageTags": {
+    "Primary": "p0016"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000016",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 22",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2022,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0017"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-06-13T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000017",
+   "ImageTags": {
+    "Primary": "p0017"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000017",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 23",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2023,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0018"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-07-14T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000018",
+   "ImageTags": {
+    "Primary": "p0018"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000018",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 24",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2024,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0019"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-08-15T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000019",
+   "ImageTags": {
+    "Primary": "p0019"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000019",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 25",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2000,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b001a"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-09-16T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000001a",
+   "ImageTags": {
+    "Primary": "p001a"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000001a",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 26",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2001,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b001b"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-01-17T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000001b",
+   "ImageTags": {
+    "Primary": "p001b"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000001b",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 27",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2002,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b001c"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-02-18T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000001c",
+   "ImageTags": {
+    "Primary": "p001c"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000001c",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 28",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2003,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b001d"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-03-19T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000001d",
+   "ImageTags": {
+    "Primary": "p001d"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000001d",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 29",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2004,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b001e"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-04-10T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000001e",
+   "ImageTags": {
+    "Primary": "p001e"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000001e",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 30",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2005,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b001f"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-05-11T12:00:00Z",
+   "Genres": [],
+   "Id": "a000000000000000000000000000001f",
+   "ImageTags": {
+    "Primary": "p001f"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f000000000000000000000000000001f",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 31",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2006,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0020"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-06-12T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000020",
+   "ImageTags": {
+    "Primary": "p0020"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000020",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 32",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2007,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0021"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-07-13T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000021",
+   "ImageTags": {
+    "Primary": "p0021"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000021",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 33",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2008,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0022"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-08-14T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000022",
+   "ImageTags": {
+    "Primary": "p0022"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000022",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 34",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2009,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0023"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-09-15T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000023",
+   "ImageTags": {
+    "Primary": "p0023"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000023",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 35",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2010,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0024"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-01-16T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000024",
+   "ImageTags": {
+    "Primary": "p0024"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000024",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 36",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2011,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0025"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-02-17T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000025",
+   "ImageTags": {
+    "Primary": "p0025"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000025",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 37",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2012,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0026"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-03-18T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000026",
+   "ImageTags": {
+    "Primary": "p0026"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000026",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 38",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2013,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0027"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-04-19T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000027",
+   "ImageTags": {
+    "Primary": "p0027"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000027",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 39",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2014,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0028"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-05-10T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000028",
+   "ImageTags": {
+    "Primary": "p0028"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000028",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 6000000000,
+     "Size": 6000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Filler Film 40",
+   "OfficialRating": null,
+   "Overview": "Pagination filler.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2015,
+   "RunTimeTicks": 6000000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "b0029"
+   ],
+   "CommunityRating": 7.1,
+   "DateCreated": "2026-06-11T12:00:00Z",
+   "Genres": [],
+   "Id": "a0000000000000000000000000000029",
+   "ImageTags": {
+    "Primary": "p0029"
+   },
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000029",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "1080p H264",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 40000000,
+     "Size": 40000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Short Clip",
+   "OfficialRating": null,
+   "Overview": "Four seconds long.",
+   "ParentId": "c0000000000000000000000000000001",
+   "ProductionYear": 2024,
+   "RunTimeTicks": 40000000,
+   "Type": "Movie",
+   "UserData": {
+    "PlayCount": 0,
+    "PlaybackPositionTicks": 0,
+    "Played": false,
+    "PlayedPercentage": null
+   }
+  },
+  {
+   "BackdropImageTags": [
+    "serbd01"
+   ],
+   "ChildCount": 2,
+   "Genres": [
+    "Mystery"
+   ],
+   "Id": "b0000000000000000000000000000001",
+   "ImageTags": {
+    "Primary": "ser0001"
+   },
+   "IsFolder": true,
+   "Name": "Lantern Bay",
+   "Overview": "A small town, a big storm, a lighthouse.",
+   "ParentId": "c0000000000000000000000000000002",
+   "ProductionYear": 2024,
+   "Type": "Series",
+   "UserData": {
+    "Played": false,
+    "UnplayedItemCount": 3
+   }
+  },
+  {
+   "Id": "d0000000000000000000000000000001",
+   "ImageTags": {
+    "Primary": "s0001"
+   },
+   "IndexNumber": 1,
+   "IsFolder": true,
+   "Name": "Season 1",
+   "ParentId": "b0000000000000000000000000000001",
+   "SeriesId": "b0000000000000000000000000000001",
+   "SeriesName": "Lantern Bay",
+   "Type": "Season",
+   "UserData": {
+    "Played": false,
+    "UnplayedItemCount": 2
+   }
+  },
+  {
+   "Id": "d0000000000000000000000000000002",
+   "ImageTags": {
+    "Primary": "s0002"
+   },
+   "IndexNumber": 2,
+   "IsFolder": true,
+   "Name": "Season 2",
+   "ParentId": "b0000000000000000000000000000001",
+   "SeriesId": "b0000000000000000000000000000001",
+   "SeriesName": "Lantern Bay",
+   "Type": "Season",
+   "UserData": {
+    "Played": false,
+    "UnplayedItemCount": 1
+   }
+  },
+  {
+   "Id": "e0000000000000000000000000000065",
+   "ImageTags": {
+    "Primary": "e0065"
+   },
+   "IndexNumber": 1,
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000065",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "720p H264",
+       "Height": 720,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 31,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1280
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 15000000000,
+     "Size": 15000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Arrival",
+   "Overview": "Episode 1 of season 1.",
+   "ParentBackdropImageTags": [
+    "serbd01"
+   ],
+   "ParentBackdropItemId": "b0000000000000000000000000000001",
+   "ParentId": "d0000000000000000000000000000001",
+   "ParentIndexNumber": 1,
+   "RunTimeTicks": 15000000000,
+   "SeasonId": "d0000000000000000000000000000001",
+   "SeasonName": "Season 1",
+   "SeriesId": "b0000000000000000000000000000001",
+   "SeriesName": "Lantern Bay",
+   "SeriesPrimaryImageTag": "ser0001",
+   "Type": "Episode",
+   "UserData": {
+    "PlaybackPositionTicks": 0,
+    "Played": true
+   }
+  },
+  {
+   "Id": "e0000000000000000000000000000066",
+   "ImageTags": {
+    "Primary": "e0066"
+   },
+   "IndexNumber": 2,
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000066",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "720p H264",
+       "Height": 720,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 31,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1280
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 15000000000,
+     "Size": 15000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "Low Tide",
+   "Overview": "Episode 2 of season 1.",
+   "ParentBackdropImageTags": [
+    "serbd01"
+   ],
+   "ParentBackdropItemId": "b0000000000000000000000000000001",
+   "ParentId": "d0000000000000000000000000000001",
+   "ParentIndexNumber": 1,
+   "RunTimeTicks": 15000000000,
+   "SeasonId": "d0000000000000000000000000000001",
+   "SeasonName": "Season 1",
+   "SeriesId": "b0000000000000000000000000000001",
+   "SeriesName": "Lantern Bay",
+   "SeriesPrimaryImageTag": "ser0001",
+   "Type": "Episode",
+   "UserData": {
+    "PlaybackPositionTicks": 0,
+    "Played": false
+   }
+  },
+  {
+   "Id": "e0000000000000000000000000000067",
+   "ImageTags": {
+    "Primary": "e0067"
+   },
+   "IndexNumber": 3,
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000067",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "h264",
+       "DisplayTitle": "720p H264",
+       "Height": 720,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 31,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1280
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 15000000000,
+     "Size": 15000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "The Fog Bell",
+   "Overview": "Episode 3 of season 1.",
+   "ParentBackdropImageTags": [
+    "serbd01"
+   ],
+   "ParentBackdropItemId": "b0000000000000000000000000000001",
+   "ParentId": "d0000000000000000000000000000001",
+   "ParentIndexNumber": 1,
+   "RunTimeTicks": 15000000000,
+   "SeasonId": "d0000000000000000000000000000001",
+   "SeasonName": "Season 1",
+   "SeriesId": "b0000000000000000000000000000001",
+   "SeriesName": "Lantern Bay",
+   "SeriesPrimaryImageTag": "ser0001",
+   "Type": "Episode",
+   "UserData": {
+    "PlaybackPositionTicks": 0,
+    "Played": false
+   }
+  },
+  {
+   "Id": "e0000000000000000000000000000068",
+   "ImageTags": {
+    "Primary": "e0068"
+   },
+   "IndexNumber": 1,
+   "IsFolder": false,
+   "MediaSources": [
+    {
+     "Bitrate": 8000000,
+     "Container": "mkv",
+     "DefaultAudioStreamIndex": 1,
+     "Id": "f0000000000000000000000000000068",
+     "IsRemote": false,
+     "MediaStreams": [
+      {
+       "AverageFrameRate": 23.976,
+       "BitDepth": 8,
+       "Codec": "hevc",
+       "DisplayTitle": "1080p HEVC",
+       "Height": 1080,
+       "Index": 0,
+       "IsDefault": true,
+       "IsExternal": false,
+       "IsInterlaced": false,
+       "Level": 41,
+       "PixelFormat": "yuv420p",
+       "Profile": "High",
+       "RealFrameRate": 23.976,
+       "Type": "Video",
+       "Width": 1920
+      },
+      {
+       "Channels": 2,
+       "Codec": "aac",
+       "DisplayTitle": "Eng - AAC - Stereo",
+       "Index": 1,
+       "IsDefault": true,
+       "IsExternal": false,
+       "Language": "eng",
+       "Type": "Audio"
+      }
+     ],
+     "Name": "Default",
+     "Protocol": "File",
+     "RunTimeTicks": 15000000000,
+     "Size": 15000000,
+     "SupportsDirectPlay": true,
+     "SupportsDirectStream": true,
+     "SupportsTranscoding": true,
+     "Type": "Default",
+     "VideoType": "VideoFile"
+    }
+   ],
+   "Name": "New Keeper",
+   "Overview": "Episode 1 of season 2.",
+   "ParentBackdropImageTags": [
+    "serbd01"
+   ],
+   "ParentBackdropItemId": "b0000000000000000000000000000001",
+   "ParentId": "d0000000000000000000000000000002",
+   "ParentIndexNumber": 2,
+   "RunTimeTicks": 15000000000,
+   "SeasonId": "d0000000000000000000000000000002",
+   "SeasonName": "Season 2",
+   "SeriesId": "b0000000000000000000000000000001",
+   "SeriesName": "Lantern Bay",
+   "SeriesPrimaryImageTag": "ser0001",
+   "Type": "Episode",
+   "UserData": {
+    "PlaybackPositionTicks": 0,
+    "Played": false
+   }
+  }
+ ],
+ "server": {
+  "Id": "90000000000000000000000000000001",
+  "LocalAddress": "http://127.0.0.1",
+  "OperatingSystem": "",
+  "ProductName": "Jellyfin Server",
+  "ServerName": "Fixture Jellyfin",
+  "StartupWizardCompleted": true,
+  "Version": "10.10.7"
+ },
+ "token": "0f1e2d3c4b5a69788796a5b4c3d2e1f0",
+ "user": {
+  "Id": "70000000000000000000000000000001",
+  "Name": "demo",
+  "Password": "demo-password"
+ },
+ "views": [
+  {
+   "CollectionType": "movies",
+   "Id": "c0000000000000000000000000000001",
+   "ImageTags": {
+    "Primary": "v0001"
+   },
+   "IsFolder": true,
+   "Name": "Movies",
+   "Type": "CollectionFolder"
+  },
+  {
+   "CollectionType": "tvshows",
+   "Id": "c0000000000000000000000000000002",
+   "ImageTags": {
+    "Primary": "v0002"
+   },
+   "IsFolder": true,
+   "Name": "Shows",
+   "Type": "CollectionFolder"
+  },
+  {
+   "CollectionType": "music",
+   "Id": "c0000000000000000000000000000003",
+   "ImageTags": {},
+   "IsFolder": true,
+   "Name": "Music",
+   "Type": "CollectionFolder"
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 120
+BreakBeforeBraces: Linux
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: true
+IndentCaseLabels: false
+PointerAlignment: Right
+AlignConsecutiveMacros: AcrossComments
+IncludeBlocks: Preserve
+SortIncludes: CaseSensitive
+SpaceBeforeParens: ControlStatements

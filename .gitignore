@@ -1,0 +1,8 @@
+/build*/
+/dist/
+/web/node_modules/
+/web/dist/
+/web/test-results/
+compile_commands.json
+*.o
+__pycache__/
